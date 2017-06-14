@@ -1,5 +1,5 @@
 # Welcome!
-## I (Eugene) am a recent graduate in Physics from Washington University in St. Louis (A.B.).
+## I (Eugene) am a recent graduate in Physics (A.B.) from Washington University in St. Louis.
 ### My interests in STEM include many-body effects in condensed matter systems, quantum information, neural networks, and theory of learning (deep or otherwise--but especially machine learning). Linked with STEM, I'm also interested in and concerned with the socio-political effects of science and technology, and am broadly interested in political economy (current read is Thomas Pickety's _Capital in the 21st Century_). I also love movement and sports, and I try to bring practices like [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_technique) and [Authentic Movement](https://en.wikipedia.org/wiki/Authentic_Movement) into my running/tennis/soccer/most everything!
 ### Over the last two years, I've been a part of the [Henriksen Experimental Physics Lab](http://physics.wustl.edu/henriksen/), designing and building a classical spin-glass analogue out of freely rotating and interacting bar magnets. You can find me senior thesis [here](eugenejtsao.github.io/Thesis Final 2.0.pdf), and my CV here.
 ### Please email me at eugenejtsao (at) gmail!
